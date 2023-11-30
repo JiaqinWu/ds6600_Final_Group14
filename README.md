@@ -1,5 +1,5 @@
 # Generating Lyrics Using Deep Learning
-### Authors: Jingnai Huan, Kefan Yu, Jiaqin Wu
+### Authors: Naihuan Jing, Kefan Yu, Jiaqin Wu
 #### Datasets: 
 Data Source: [Kaggle](https://www.kaggle.com/code/karnikakapoor/lyrics-generator-rnn/input?select=Songs.csv)
 
