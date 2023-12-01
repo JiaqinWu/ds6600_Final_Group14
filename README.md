@@ -20,3 +20,6 @@ To the code demos:
 
 To the summary write-up:
 - [Summary write-up](https://github.com/JiaqinWu/ds6600_Final_Group14/tree/main/write_up)
+
+Slides:
+- [Presentation](https://github.com/JiaqinWu/ds6600_Final_Group14/blob/main/6600%20project%20-%20Group%2014.pdf)
