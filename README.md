@@ -19,7 +19,7 @@ To the code demos:
 - [Lyrics Generator with Titles](https://github.com/JiaqinWu/ds6600_Final_Group14/tree/main/code/lyrics_title)
 
 To the summary write-up:
-- [Summary write-up](https://github.com/JiaqinWu/ds6600_Final_Group14/tree/main/write_up)
+- [Summary write-up](https://github.com/JiaqinWu/ds6600_Final_Group14/blob/main/write_up/Summary_Write_up.pdf)
 
 Slides:
-- [Presentation](https://github.com/JiaqinWu/ds6600_Final_Group14/blob/main/6600%20project%20-%20Group%2014.pdf)
+- [Presentation](https://github.com/JiaqinWu/ds6600_Final_Group14/blob/main/slides/6600%20project%20-%20Group%2014.pdf)
